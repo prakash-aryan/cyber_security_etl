@@ -1,0 +1,48 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+utils/__pycache__/
+**/__pycache__/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Data files and outputs
+output/*.csv
+*.csv
+*.json
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Spark files
+metastore_db/
+spark-warehouse/
+derby.log
+
+# Local development specific
+notebooks/
+temp/
