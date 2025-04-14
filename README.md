@@ -69,7 +69,7 @@ An interactive web dashboard that displays:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/prakash-aryan/cyber-security-etl.git
+   git clone https://github.com/prakash-aryan/cyber_security_etl.git
    cd cyber-security-etl
    ```
 
